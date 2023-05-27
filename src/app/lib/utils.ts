@@ -1,1 +1,1 @@
-export function cn(...inputs: ClassValue[]) 
+export function cn(...inputs: ClassValue[]);
